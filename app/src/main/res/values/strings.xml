@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Login Volley</string>
+    <string name="app_name">Login Retrofit</string>
     <string name="description_img_profile">Imagen del perfil de usuario.</string>
     <string name="hint_email">email</string>
     <string name="hint_password">password</string>
